@@ -1,2 +1,2 @@
-# Interactive-pages-with-JS
-The place to put my work for Interactive Webpages with JavaScript
+# AJAX-basics
+My code from the AJAX basics course. 
