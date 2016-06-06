@@ -1,2 +1,2 @@
-# AJAX-basics
-My code from the AJAX basics course. 
+# object-oriented-JS
+code from the course of the same name
